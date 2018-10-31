@@ -1,0 +1,16 @@
+{
+  "name": "client-app",
+  "version": "1.0.0",
+  "description": "firebase test client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "firebase": "^5.2.0",
+    "firebase-admin": "^5.12.1"
+  },
+  "dependencies": {}
+}
